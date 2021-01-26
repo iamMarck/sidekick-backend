@@ -16,6 +16,6 @@ This project was created in .Net Core v5, created to showcase skills on creating
 
 ## How to run
 Setup solution to run both `SideKick.Examination.WS` and `Sidekick.Examination.App` goto Solution Properties and set 'Multiple startup projects' select action `Start` on 
-dropdown menu on `SideKick.Examination.WS` and `Sidekick.Examination.App` project then Apply, you can now Start the project by pressing `f5` or pressing `Start` buton.
+dropdown menu on `SideKick.Examination.WS` and `Sidekick.Examination.App` project then Apply, you can now Start the project by pressing `f5` or pressing `Start` button.
 
 Thanks a lot.
